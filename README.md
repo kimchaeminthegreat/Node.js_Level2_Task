@@ -51,7 +51,7 @@
       - 최소 3자 이상
       - 알파벳 대소문자 (a-z, A-Z)
       - 숫자 (0~9)
-      - DB.nickname 중복 ? "중복된 닉네임 입니다. errMessage
+      - DB.nickname 중복 ? "중복된 닉네임 입니다. errorMessage
    - password ?
       - 최소 4자 이상
       - 닉네임 같은 값 포함 X -> 회원가입 실패로 만들기
